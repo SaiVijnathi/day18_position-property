@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    background-color: rgb(203, 235, 248);
+}
+
+img{
+    position: relative;
+    display: inline-block;
+}
+
+#hardik{
+    left: 200px;
+    width: 240px;
+}
+
+#ishan{
+    left: 80px;
+    width: 240px;
+}
+
+#yuvraj{
+    height: 240px;
+    width: 270px;
+    left: -60px;
+}
+
+#dhoni{
+    right: 210px;
+    z-index:30;
+    width: 270px;
+}
+
+#rohit{
+    right:350px;
+    z-index:29;
+    width: 250px;
+}
+
+#virat{
+    height: 250px;
+    width: 230px;
+    left:820px;
+    bottom: 254px;
+    z-index:28;
+}
+
+#jadeja{
+    height: 245px;
+    width: 250px;
+    left: 700px;
+    bottom: 252.5px;
+    z-index:27;
+}
+
+
+h1{
+text-align: center;
+background-color: rgb(92, 187, 224);
+padding: 15px 0 15px 0;
+margin-top: 50px;
+width: 100%;
+position: static;
+z-index: 31;
+}
+
+#logo{
+    position: fixed;
+    right:0px;
+    width: 250px;
+    bottom: 20px;
+}
+
+#playersDiv{
+    margin-top: 80px;
+}
